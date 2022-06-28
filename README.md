@@ -1,3 +1,8 @@
+- 👋 Hi, I’m @www4lker
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
 >E eu ousaria 
 >
 >Perturbar o universo? 
@@ -6,8 +11,8 @@
 >
 >De decisões e revisões que num minuto são o inverso.
 >
->Poemas (Eliot, T.S.)
 >---------------------
+>Poemas (Eliot, T.S.)
 - 👋 Oi, me chamo w4lker
 - 👀 interessado em cultura contemporânea
 - 🌱 aprendendo a usar domínio próprio em um blog feito com jekyll (não é tão simples fazer isso)
