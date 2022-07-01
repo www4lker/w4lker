@@ -21,14 +21,13 @@
 title: W4LKER
 email: walker@w4lker.com.br
 description: >- # this means to ignore newlines until "baseurl:"
-  um jardim digital nos confins da floresta negra do ciberespaço
-baseurl:  # the subpath of your site, e.g. /blog
-url: https://www.w4lker.com.br/ # the base hostname & protocol for your site, e.g. http://example.com
+  Meu jardim digital nos confins da floresta negra que é o ciberespaço
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "w4lker.com.br" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
-plugins:
-  - jekyll-feed
+#plugins:
 
 # Exclude from processing.
 # The following items will not be processed, by default.

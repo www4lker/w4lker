@@ -1,0 +1,32 @@
+---
+layout: post
+title:  teste
+date:   2022-07-01 15:34:23 -0400
+categories: jekyll update
+---
+<h5><strong>O l&iacute;rio prateado</strong></h5>
+<p><strong>Louise Gl&uuml;ck</strong></p>
+<p>As noites ficaram frias de novo, como as noites</p>
+<p>de come&ccedil;o de primavera, e quietas de novo. Ser&aacute;</p>
+<p>que a conversa te incomoda? Estamos</p>
+<p>sozinhos agora; n&atilde;o temos raz&atilde;o para sil&ecirc;ncio.</p>
+<p>&nbsp;</p>
+<p>V&ecirc;s, sobre o jardim &mdash; a lua cheia nasce.</p>
+<p>N&atilde;o verei a pr&oacute;xima lua cheia.</p>
+<p>&nbsp;</p>
+<p>Na primavera, quando a lua nascia, significava</p>
+<p>que o tempo era infinito. An&ecirc;monas</p>
+<p>abriam e fechavam, as sementes</p>
+<p>em cachos ca&iacute;am dos bordos em p&aacute;lidas lufadas.</p>
+<p>Branco sobre branco, a lua nascia sobre o vidoeiro.</p>
+<p>E no arco em que a &aacute;rvore se divide,</p>
+<p>folhas dos primeiros narcisos, ao luar</p>
+<p>prata-verde-claras.</p>
+<p>&nbsp;</p>
+<p>Juntos, chegamos perto demais do fim para agora</p>
+<p>temermos o fim. Nessas noites, n&atilde;o estou nem mesmo certa</p>
+<p>de que sei o que significa o fim. E tu, que estiveste</p>
+<p>com um homem &mdash;</p>
+<p>depois dos primeiros gritos,</p>
+<p>n&atilde;o faz a alegria, como o medo, barulho algum?</p>
+<p><strong>(Tradu&ccedil;&atilde;o de Maria L&uacute;cia Mill&eacute;o Martins)</strong></p>

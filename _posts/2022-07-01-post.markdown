@@ -1,0 +1,29 @@
+---
+layout: post
+title:  teste 1
+date:   2022-07-01 15:34:23 -0400
+categories: jekyll update
+---
+<h5><strong>Flores silvestres</strong></h5>
+<p><strong>Louise Gl&uuml;ck</strong></p>
+<p>O que est&atilde;o dizendo? Que querem</p>
+<p>vida eterna? Seus pensamentos s&atilde;o mesmo</p>
+<p>t&atilde;o arrebatadores assim? Com certeza</p>
+<p>n&atilde;o olham para n&oacute;s, n&atilde;o nos ouvem,</p>
+<p>em sua pele</p>
+<p>mancha de sol, p&oacute;</p>
+<p>de bot&otilde;es-de-ouro: estou falando</p>
+<p>com voc&ecirc;s, voc&ecirc;s que olham fixamente por entre</p>
+<p>os talos de grama alta agitando</p>
+<p>o pequeno guizo &mdash; &Oacute;</p>
+<p>alma! alma! Basta</p>
+<p>olhar para dentro? Desd&eacute;m</p>
+<p>pela humanidade &eacute; uma coisa, mas por que</p>
+<p>desprezar o vasto</p>
+<p>campo, seu olhar elevando-se acima das n&iacute;tidas cabe&ccedil;as</p>
+<p>dos bot&otilde;es-de-ouro silvestres em dire&ccedil;&atilde;o a qu&ecirc;? Sua pobre</p>
+<p>ideia de c&eacute;u: aus&ecirc;ncia</p>
+<p>de mudan&ccedil;a. Melhor que a terra? Como</p>
+<p>saberiam, se n&atilde;o est&atilde;o nem</p>
+<p>aqui nem l&aacute;, eretas entre n&oacute;s?</p>
+<p><strong>(Tradu&ccedil;&atilde;o de Maria L&uacute;cia Mill&eacute;o Martins)</strong></p>
