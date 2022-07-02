@@ -1,0 +1,1 @@
+Esse é o meu blog no github - a ideia de usar meu dominio proprio em uma plataforma grátis como o GitHub me seduziu, mesmo quase não conseguindo, com nenhuma facilidade, usar o jekyll. Mas não vamos desistir. A alternativa a isso é pagar em dolares.
