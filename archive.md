@@ -3,9 +3,11 @@ layout: default
 title: Archive
 ---
 
-# Archive
+# Arquivo
 
-Browse all posts by month and year.
+Navegue todos os posts por mês e ano.
+
+
 
 {% assign postsByYearMonth = site.posts | group_by_exp: "post", "post.date | date: '%B %Y'" %}
 {% for yearMonth in postsByYearMonth %}
@@ -15,4 +17,8 @@ Browse all posts by month and year.
       <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
+  
+  
+  
+  
 {% endfor %}
