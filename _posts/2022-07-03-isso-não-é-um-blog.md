@@ -1,8 +1,3 @@
----
-layout: post
-title: Isso não é um Blog: práticas de resistência através do cybertexto
----
-
 **Capítulo**** 1**
 
 # **1**
